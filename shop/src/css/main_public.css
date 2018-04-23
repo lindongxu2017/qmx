@@ -1,0 +1,92 @@
+
+.page-group {
+    background: #fff;
+}
+/**
+ * 搜索栏
+ */
+.search{
+    height: 44px;
+    padding: 0;
+    background: #f08200;
+    line-height: 44px;
+}
+.search > div{
+    height: inherit;
+}
+.search-left{
+    width: 100px;
+    float: left;
+    text-align: center;
+    color: #fff;
+}
+.search-left img{
+    vertical-align: middle;
+    width: 13px;
+}
+.search-left span{
+    margin: 0 7px;
+    font-size: 14px;
+}
+.search-right{
+    width: 70px;
+    float: right;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+}
+.search-middle{
+    padding-left: 100px;
+    padding-right: 70px;
+    position: relative;
+}
+.search-middle img{
+    display: inline-block;
+    position: absolute;
+    left: 105px;
+    width: 15px;
+    top: 14px;    
+}
+.search-middle input{
+    width: 100%;
+    height: 30px;
+    border: 0;
+    border-radius: 5px;
+    text-indent: 30px;
+    font-size: 14px;
+}
+
+/**
+*公共底色
+*/
+.public-bg-white{
+    background: #fff;
+}
+/**
+*文字主色
+*/
+.orange{
+    color: #f08200;
+}
+.deepGrap{
+    color: #5f646e;
+}
+
+/**
+*按钮样式
+*/
+.btn-custom{
+    width: 88%;
+    margin: auto;
+    border: 0;
+    color: #fff;
+    background: #f08200;
+}
+
+.btn-custom-re{
+    width: 88%;
+    margin: auto;
+    border: 1px solid #f08200;
+    color: #f08200;
+    background: #fff;
+}

@@ -1,0 +1,20 @@
+/* 统一固定样式 */
+.content-wrap {
+	margin-top:10px;
+}
+
+
+/* 自定义公共样式*/
+.public-table-serialNumber {
+	width: 50px;
+	text-align: center !important;
+}
+
+.public-page-name {
+	color:#666;
+	font-weight:bold;
+}
+/* 自定义颜色 */
+.public-color-#ccc {
+	color: #ccc;
+}

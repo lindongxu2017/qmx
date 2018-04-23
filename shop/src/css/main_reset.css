@@ -1,0 +1,39 @@
+/**
+ * 底部导航高亮
+ */
+.bar-tab .tab-item.active, .bar-tab .tab-item:active{
+	color: #f08200;
+}
+
+/**
+ * content-block 块级
+ */
+.content-block{
+	margin: 0;
+}
+.list-block{
+	margin: 0;
+}
+.margin-t-7{
+	margin-top: 7px;
+}
+/**
+*段落
+*/
+p{
+	margin: 0;
+}
+/**
+*留白
+*/
+.content-padded{
+	margin: 0;
+	padding: 0 15px;
+}
+/**
+*卡片
+*/
+.card{
+	margin: 0;
+	box-shadow: none;
+}
